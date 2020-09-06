@@ -1,0 +1,7 @@
+name: DirectLeaks-API
+load: startup
+version: 1.0
+author: xBrownieCodez
+main: de.xbrowniecodez.dlapi.Main
+commands:
+  dlapi:
